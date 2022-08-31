@@ -1,8 +1,6 @@
-# hello-world
-just another repository
-i am learning to code.
+# hello-world!! just another repository i am learning to code.
 
-#C Language 
+# C Language 
 
 C is a procedural programming language. It was initially developed by Dennis Ritchie as a system programming language to write an operating system. 
 
