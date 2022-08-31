@@ -51,3 +51,13 @@ Features:
 * MATLAB can natively support the sensor, video, image, telemetry, binary, and various real-time data from JDBC/ODBC databases. Reading data from different databases, CSV, audio, images, and video is super simple from an integrated environment.
 
 * It offers a huge library of mathematical functions needed for computing statistics, linear algebra, numerical integration, filtering, Fourier analysis, optimization and solving regular differential equations. 
+
+# C# Language
+
+C# is pronounced as “C-Sharp”. It is an object-oriented programming language provided by Microsoft that runs on .Net Framework. Anders Hejlsberg is known as the founder of C# language. It is based on C++ and Java, but it has many additional extensions used to perform component-oriented programming approach. C# has evolved much since their first release in the year 2002. It was introduced with .NET Framework 1.0 and the current version of C# is 5.0. 
+
+Features:
+
+* Type-Safe.
+
+* Component Oriented.
